@@ -48,7 +48,7 @@ const Footer = () => {
           <p>Copyright. All Rights Reserved.</p> {/* Fixed typo in "Reserved". */}
         </div>
         <p className="font-montserrat cursor-pointer">Terms & Conditions</p>
-      </div>
+      </div> 
     </footer>
   );
 };
