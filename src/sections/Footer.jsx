@@ -1,5 +1,3 @@
-import React from "react"; // Make sure to import React if you're using JSX.
-
 import { copyrightSign } from "../assets/icons";
 import { footerLogo } from "../assets/images";
 import { footerLinks, socialMedia } from "../constants";
